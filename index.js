@@ -27,7 +27,7 @@ function iLoveTheBeatles{(num){
   
   do{
     newArray.push(num)
-    
+    i++
   }while(i<15)
   
   
