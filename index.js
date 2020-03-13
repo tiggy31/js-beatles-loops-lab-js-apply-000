@@ -21,7 +21,7 @@ function johnLennonFacts(facts){
 }
 
 
-function iLoveTheBeatles{(num){
+function iLoveTheBeatles(num){
   let newArray= []
   let i=0
   
