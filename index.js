@@ -23,10 +23,12 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles{(num){
   let newArray= []
+  let i=0
   
   do{
+    newArray.push(num)
     
-  }while(
+  }while(i<15)
   
   
 }
